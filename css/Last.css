@@ -1,0 +1,55 @@
+
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f0f0;
+}
+
+
+
+.carousel {
+  max-width: 600px !important;
+  margin:0 auto;
+  perspective: 360px;
+  padding-bottom: 500px;
+}
+
+
+.container{
+  background-color: white;
+  width: 50%;
+  margin:0 auto;
+ border-radius: 30px;
+}
+
+.container1{
+  width: 50%;
+  margin:0 auto;
+
+}
+.container .carousel-item{
+  width: 400px;
+  height:  auto;
+
+}
+
+
+
+table {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.lightblue{
+  color:#26a69a;
+}
+
+.b{
+  color:#26a69a;
+}
